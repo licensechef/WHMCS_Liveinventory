@@ -1,4 +1,4 @@
-# WHMCS_Liveinventory
+# WHMCS Liveinventory
 Simple api to display your inventory stock in JSON
 
 Upload the folder into your whmcs/modules/addons/ 
